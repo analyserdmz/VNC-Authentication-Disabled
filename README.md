@@ -34,6 +34,9 @@ python vncADS.py <iprange> --ports <ports>
 ```sh
 python vncADS.py 192.168.1.0/24 --ports 5900,5901
 ```
+### Example findings
+<img width="530" alt="image" src="https://github.com/analyserdmz/VNC-Authentication-Disabled/assets/61113942/6cc28fa6-2623-4c35-9fc4-e9f24cc4c752">
+<img width="652" alt="image" src="https://github.com/analyserdmz/VNC-Authentication-Disabled/assets/61113942/c57a15fc-6049-482a-be2d-872c22321cd1">
 
 ## Running on Windows
 
